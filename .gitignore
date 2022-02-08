@@ -1,0 +1,4 @@
+*.log
+/dit/
+imp/
+static/dir
